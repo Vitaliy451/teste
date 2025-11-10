@@ -37,13 +37,19 @@
     "softwareId" : null,
     "type" : "default"
   },
+  "credentials" : {
+    "credentialsId" : "rt18LLmbQtb0io0iCs5y",
+    "credentialsType" : "ACCESS_TOKEN",
+    "credentialsValue" : null
+  },
+  "relations" : [ ],
   "attributes" : {
     "SERVER_SCOPE" : [ {
       "booleanValue" : false,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1762527505101,
+      "lastUpdateTs" : 1762781421331,
       "longValue" : null,
       "strValue" : null
     }, {
@@ -51,8 +57,8 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "inactivityAlarmTime",
-      "lastUpdateTs" : 1762527505090,
-      "longValue" : 1762527505090,
+      "lastUpdateTs" : 1762781421322,
+      "longValue" : 1762781421322,
       "strValue" : null
     }, {
       "booleanValue" : null,

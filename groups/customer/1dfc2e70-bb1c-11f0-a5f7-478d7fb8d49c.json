@@ -28,7 +28,10 @@
       "actions" : { }
     },
     "edgeGroupAll" : false,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "ENTITY_GROUP",
+      "id" : "1dfc2e70-bb1c-11f0-a5f7-478d7fb8d49c"
+    },
     "groupAll" : true,
     "id" : {
       "entityType" : "ENTITY_GROUP",
@@ -37,7 +40,7 @@
     "name" : "All",
     "ownerId" : {
       "entityType" : "TENANT",
-      "id" : "1dec01d0-bb1c-11f0-a5f7-478d7fb8d49c"
+      "id" : "97b814a0-bb1b-11f0-b70e-2107c6c76010"
     },
     "type" : "CUSTOMER"
   },

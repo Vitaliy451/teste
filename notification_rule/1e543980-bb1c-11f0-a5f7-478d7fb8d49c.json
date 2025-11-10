@@ -5,7 +5,10 @@
       "description" : "Send notification to tenant admins when any integration fails to start"
     },
     "enabled" : true,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "NOTIFICATION_RULE",
+      "id" : "1e543980-bb1c-11f0-a5f7-478d7fb8d49c"
+    },
     "id" : {
       "entityType" : "NOTIFICATION_RULE",
       "id" : "1e543980-bb1c-11f0-a5f7-478d7fb8d49c"

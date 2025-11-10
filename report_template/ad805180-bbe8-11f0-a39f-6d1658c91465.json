@@ -102,7 +102,10 @@
       "id" : "13814000-1dd2-11b2-8080-808080808080"
     },
     "description" : null,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "REPORT_TEMPLATE",
+      "id" : "ad805180-bbe8-11f0-a39f-6d1658c91465"
+    },
     "format" : "PDF",
     "id" : {
       "entityType" : "REPORT_TEMPLATE",
