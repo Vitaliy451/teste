@@ -1,0 +1,48 @@
+{
+  "entityType" : "SCHEDULER_EVENT",
+  "entity" : {
+    "additionalInfo" : null,
+    "configuration" : {
+      "msgBody" : {
+        "reportConfig" : {
+          "baseUrl" : "http://10.7.1.116:8080",
+          "useDashboardTimewindow" : true,
+          "timewindow" : {
+            "selectedTab" : 1,
+            "history" : {
+              "historyType" : 0,
+              "interval" : 1000,
+              "timewindowMs" : 86400000
+            }
+          },
+          "type" : "pdf",
+          "timezone" : "Europe/Kiev",
+          "dashboardId" : "98d54470-bb1b-11f0-b70e-2107c6c76010",
+          "state" : "",
+          "namePattern" : "report-%d{yyyy-MM-dd_HH:mm:ss}",
+          "useCurrentUserCredentials" : true,
+          "userId" : "983b9c80-bb1b-11f0-b70e-2107c6c76010"
+        },
+        "sendEmail" : null
+      }
+    },
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "enabled" : true,
+    "externalId" : null,
+    "id" : {
+      "entityType" : "SCHEDULER_EVENT",
+      "id" : "1c88a990-be43-11f0-9c37-f71d2d464a78"
+    },
+    "name" : "zvbdrbd",
+    "originatorId" : null,
+    "ownerId" : null,
+    "schedule" : {
+      "timezone" : "Europe/Kiev",
+      "startTime" : 1762725600000
+    },
+    "type" : "generateDashboardReport"
+  }
+}
