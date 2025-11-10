@@ -1,0 +1,37 @@
+{
+  "entityType" : "SCHEDULER_EVENT",
+  "entity" : {
+    "additionalInfo" : null,
+    "configuration" : {
+      "reportTemplateId" : {
+        "entityType" : "REPORT_TEMPLATE",
+        "id" : "ad805180-bbe8-11f0-a39f-6d1658c91465"
+      },
+      "userId" : {
+        "entityType" : "USER",
+        "id" : "983b9c80-bb1b-11f0-b70e-2107c6c76010"
+      },
+      "timezone" : "Europe/Kiev",
+      "targets" : null,
+      "notificationTemplateId" : null
+    },
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "enabled" : true,
+    "externalId" : null,
+    "id" : {
+      "entityType" : "SCHEDULER_EVENT",
+      "id" : "1551bd10-be43-11f0-9c37-f71d2d464a78"
+    },
+    "name" : "cbh",
+    "originatorId" : null,
+    "ownerId" : null,
+    "schedule" : {
+      "timezone" : "Europe/Kiev",
+      "startTime" : 1762725600000
+    },
+    "type" : "generateReport"
+  }
+}
